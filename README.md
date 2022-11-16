@@ -1,2 +1,2 @@
 # StudyMem
-javaMemShell
+Only Study notes when studying MemShell....
